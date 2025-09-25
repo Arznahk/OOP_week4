@@ -1,5 +1,5 @@
 #include <iostream>
-#include "math.cpp"
+#include "math.h"
 
 int main(){
     double a {};
